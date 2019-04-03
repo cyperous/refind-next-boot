@@ -5,7 +5,7 @@ A utility for modifying the refind boot order
 
 *Ubuntu*
 
-`dotnet publish -c Release -r osx.10.11-x64`
+`dotnet publish -c Release -r ubuntu.18.04-x64`
 
 *Windows*
 
