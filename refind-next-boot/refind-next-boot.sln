@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "refind-next-boot", "refind-next-boot\refind-next-boot.csproj", "{17E63E31-0A5B-48CC-B851-E19F56162F4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Platform", "..\Platform\Platform.csproj", "{12A67962-F345-4A25-A214-797DD7882A31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17E63E31-0A5B-48CC-B851-E19F56162F4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17E63E31-0A5B-48CC-B851-E19F56162F4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17E63E31-0A5B-48CC-B851-E19F56162F4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17E63E31-0A5B-48CC-B851-E19F56162F4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12A67962-F345-4A25-A214-797DD7882A31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12A67962-F345-4A25-A214-797DD7882A31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12A67962-F345-4A25-A214-797DD7882A31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12A67962-F345-4A25-A214-797DD7882A31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

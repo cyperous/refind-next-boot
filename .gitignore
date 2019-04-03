@@ -1,0 +1,11 @@
+.DS_Store
+obj/
+bin/
+*.userprefs
+*.sublime-workspace
+*.csproj.user
+packages/
+xcuserdata/
+.vs/
+node_modules/
+.idea/
